@@ -55,12 +55,12 @@
     "tippy.js": "^6.3.1"
   },
   "dependencies": {
-    "autoprefixer": "^10.2.5",
+    "autoprefixer": "^10.2.6",
     "lodash": "^4.17.21",
     "lunr": "^2.3.9",
     "marked": "^2.0.1",
     "node-fetch": "^2.6.1",
-    "postcss": "^8.2.8",
+    "postcss": "^8.4.6",
     "postcss-import": "^14.0.0",
     "postcss-load-config": "^3.0.1",
     "rollup-plugin-string": "^3.0.0",
